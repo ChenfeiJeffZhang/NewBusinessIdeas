@@ -14,7 +14,7 @@ SMB:
   - [rook](https://www.ycombinator.com/companies/rook): End-to-end sales tax tool for e-commerce
   - [SubscriptionFlow](https://www.ycombinator.com/companies/subscriptionflow): AI based Customizable Subscription & Revenue Management Platform
   - ★[takt](https://www.ycombinator.com/companies/takt): No-code workflow analytics
-  - [](): 
+  - [Mintlify](https://www.ycombinator.com/companies/mintlify): Continuous documentation platform（for growth）
   - [](): 
   - [](): 
 
