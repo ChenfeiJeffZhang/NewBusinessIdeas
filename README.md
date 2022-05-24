@@ -25,7 +25,10 @@ Enterprise/SMB
   - [](): 
   - [](): 
   - [](): 
-  - 
+
+-Fintech
+Paypay,Paidy,Airpay,Takeme
+
 
 
 
