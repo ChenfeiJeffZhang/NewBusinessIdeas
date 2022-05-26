@@ -36,13 +36,22 @@ Tasks
   - [https://cloudeagle.ai/](https://www.ycombinator.com/companies/cloudeagle-ai): SaaS Research and Procurement Platform（SaaS采购管理效率化，思路可以参考）
   - [Pulley](https://www.ycombinator.com/companies/pulley): Helping startups get more from their equity（创业公司股权支援，类似于https://www.pave.com/）
   - [Onboard.io](https://www.ycombinator.com/companies/onboard-io): Manage & automate customer onboarding and implementation(オンボーディング効率化)
--
-
-  - [](): 
-  - [](): 
-  - [](): 
-  - [](): 
-  - [](): 
+-S21
+  - ★[Talentdrop](https://www.ycombinator.com/companies/talentdrop): Marketplace that matches talent to a company's needs.（人材リファラル紹介のマッチングサイト）
+  - [Genuity](https://www.ycombinator.com/companies/genuity): SaaS Platform to manage IT and buy business software
+  - [Mindmesh](https://www.ycombinator.com/companies/mindmesh): Mindmesh is the virtual desk that puts you in control.（各路任务汇总生产力工具）
+  - [outloud.ai](https://www.ycombinator.com/companies/outloud-ai): Building Gong.io for offline retail.（接客DX，收录语音等信息分析改善）
+  - [mello](https://www.ycombinator.com/companies/mello): The new standard to reduce employee burnout.（よもやま版Geppo）★中国团队，可以考虑自己做
+  - [Watu](https://www.ycombinator.com/companies/watu): Shopify stores inside of Gmail（邮件内EC展示）★可以考虑自己做
+  - [Varos](https://www.ycombinator.com/companies/varos): Data sharing platform to compare business KPIs to your peers　★HAMEEに近い
+  - [Metlo](https://www.ycombinator.com/companies/metlo):Single source of truth for all business metrics　★统一数据口径，可以考虑再傻瓜的版本
+  - []():
+  - []():
+  - []():
+  - []():
+  - []():
+  - []():
+  - 
 
 -Fintech
 Paypay,Paidy,Airpay,Takeme
