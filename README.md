@@ -47,6 +47,7 @@ Tasks
   - [Watu](https://www.ycombinator.com/companies/watu): Shopify stores inside of Gmail（邮件内EC展示）★可以考虑自己做
   - [Varos](https://www.ycombinator.com/companies/varos): Data sharing platform to compare business KPIs to your peers　★HAMEEに近い
   - [Metlo](https://www.ycombinator.com/companies/metlo):Single source of truth for all business metrics　★统一数据口径，可以考虑再傻瓜的版本
+  - ★[Playhouse](https://www.ycombinator.com/companies/playhouse): TikTok for real estate（适合R起案）
 
 -W21
   - ★ [FlowEQ](https://www.ycombinator.com/companies/floweq):No-code workflow tool（业务流程工具）
@@ -62,11 +63,18 @@ Tasks
 -S20
   - ★[Finmark](https://www.ycombinator.com/companies/finmark):Financial planning software for startups(适合自己做)
   - [Zip](https://www.ycombinator.com/companies/zip): B2B spend
-  - [Mesh](https://www.ycombinator.com/companies/mesh):Performance management platform that fits the way you work
+  - ★[Mesh](https://www.ycombinator.com/companies/mesh):Performance management platform that fits the way you work
   - ★[SafeBase](https://www.ycombinator.com/companies/safebase):The Interactive Security Portal for Sharing Your Security Program（适合自己做）
+  - [Inspectify](https://www.ycombinator.com/companies/inspectify):Home Inspections, Simplified（住宅点検マッチング）
+
+-W20
+  - [1build](https://www.ycombinator.com/companies/1build):Codifying the language of buildings, one cost estimate at a time（建物見積もり、実績あり）
   - []():
+
+-S19
+  - [GitStart](https://www.ycombinator.com/companies/gitstart):Pull Requests as a Service（エンジニア副業サービス）
   - []():
-  - []():
+
   
 
 
