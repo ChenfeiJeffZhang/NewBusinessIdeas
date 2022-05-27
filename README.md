@@ -31,14 +31,13 @@ Tasks
   - ★[takt](https://www.ycombinator.com/companies/takt): No-code workflow analytics（业务流程分析改善）
   - [Mintlify](https://www.ycombinator.com/companies/mintlify): Continuous documentation platform（for growth）
   - [Rownd](https://www.ycombinator.com/companies/rownd): Killing the login page via instantly authenticated accounts.
-  - [Blaze](https://www.ycombinator.com/companies/blaze): 
-  
-  insights from customer support data（数据聚合）
+  - [Blaze](https://www.ycombinator.com/companies/blaze): insights from customer support data（数据聚合）
   - [Strac](https://www.ycombinator.com/companies/strac): Detect & Mask Sensitive Personal Data
   - [GrowthBook](https://www.ycombinator.com/companies/growthbook): Open source feature flagging and A/B testing(商业模式有参考价值)
   - [https://cloudeagle.ai/](https://www.ycombinator.com/companies/cloudeagle-ai): SaaS Research and Procurement Platform（SaaS采购管理效率化，思路可以参考）
   - [Pulley](https://www.ycombinator.com/companies/pulley): Helping startups get more from their equity（创业公司股权支援，类似于https://www.pave.com/）
   - [Onboard.io](https://www.ycombinator.com/companies/onboard-io): Manage & automate customer onboarding and implementation(オンボーディング効率化)
+
 -S21
   - ★[Talentdrop](https://www.ycombinator.com/companies/talentdrop): Marketplace that matches talent to a company's needs.（人材リファラル紹介のマッチングサイト）
   - [Genuity](https://www.ycombinator.com/companies/genuity): SaaS Platform to manage IT and buy business software
