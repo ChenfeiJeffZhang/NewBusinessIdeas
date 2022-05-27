@@ -55,6 +55,7 @@ Tasks
   - [Promoted.ai](https://www.ycombinator.com/companies/promoted):Promotions for Marketplaces(适合自己做，技术要求非常高)
   - [June](https://www.ycombinator.com/companies/june):June is instant product analytics for B2B SaaS.（Twillio Segment对接后直接出dashboard）※适合社内开发别的项目时顺道做(类似mixpannel)
   -★[Per Diem](https://www.ycombinator.com/companies/per-diem):Local subscriptions made easy(挺适合R)
+  
   -★[Firstbase.io](https://www.ycombinator.com/companies/firstbase-io):All in one Company OS(适合自己做，日本版)
   -★[Worksphere](https://www.ycombinator.com/companies/worksphere):Manage your hybrid workplace（适合自己做）
   -★[Blotout](https://www.ycombinator.com/companies/blotout):Modern data infrastructure for sales and marketing　
