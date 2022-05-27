@@ -49,24 +49,24 @@ Tasks
   - [Metlo](https://www.ycombinator.com/companies/metlo):Single source of truth for all business metrics　★统一数据口径，可以考虑再傻瓜的版本
 
 -W21
-  -★ [FlowEQ](https://www.ycombinator.com/companies/floweq):No-code workflow tool（业务流程工具）
-  -★ [Abacum](https://www.ycombinator.com/companies/abacum):Helping Finance teams be 10x faster（FP&A数据整合提供）
+  - ★ [FlowEQ](https://www.ycombinator.com/companies/floweq):No-code workflow tool（业务流程工具）
+  - ★ [Abacum](https://www.ycombinator.com/companies/abacum):Helping Finance teams be 10x faster（FP&A数据整合提供）
   - [Fable](https://www.ycombinator.com/companies/fable):The command center for product teams（PM的生产力工具，貌似不太顺利）
   - [Promoted.ai](https://www.ycombinator.com/companies/promoted):Promotions for Marketplaces(适合自己做，技术要求非常高)
   - [June](https://www.ycombinator.com/companies/june):June is instant product analytics for B2B SaaS.（Twillio Segment对接后直接出dashboard）※适合社内开发别的项目时顺道做(类似mixpannel)
-  -★[Per Diem](https://www.ycombinator.com/companies/per-diem):Local subscriptions made easy(挺适合R)
-  -★[Firstbase.io](https://www.ycombinator.com/companies/firstbase-io):All in one Company OS(适合自己做，日本版)
-  -★[Worksphere](https://www.ycombinator.com/companies/worksphere):Manage your hybrid workplace（适合自己做）
-  -★[Blotout](https://www.ycombinator.com/companies/blotout):Modern data infrastructure for sales and marketing　
+  - ★[Per Diem](https://www.ycombinator.com/companies/per-diem):Local subscriptions made easy(挺适合R)
+  - ★[Firstbase.io](https://www.ycombinator.com/companies/firstbase-io):All in one Company OS(适合自己做，日本版)
+  - ★[Worksphere](https://www.ycombinator.com/companies/worksphere):Manage your hybrid workplace（适合自己做）
+  - ★[Blotout](https://www.ycombinator.com/companies/blotout):Modern data infrastructure for sales and marketing　
 
 -S20
-  -★[Finmark](https://www.ycombinator.com/companies/finmark):Financial planning software for startups(适合自己做)
+  - ★[Finmark](https://www.ycombinator.com/companies/finmark):Financial planning software for startups(适合自己做)
   - [Zip](https://www.ycombinator.com/companies/zip): B2B spend
   - [Mesh](https://www.ycombinator.com/companies/mesh):Performance management platform that fits the way you work
   - ★[SafeBase](https://www.ycombinator.com/companies/safebase):The Interactive Security Portal for Sharing Your Security Program（适合自己做）
-  -[]():
-  -[]():
-  -[]():
+  - []():
+  - []():
+  - []():
   
 
 
