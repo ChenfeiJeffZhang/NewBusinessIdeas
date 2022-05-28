@@ -76,13 +76,12 @@ Tasks
 
 -S19
   - [GitStart](https://www.ycombinator.com/companies/gitstart):Pull Requests as a Service（エンジニア副業サービス）
-  - []():
-
-  
-
 
 -Fintech
-Paypay,Paidy,Airpay,Takeme
+  - []():  
+
+
+Resource：Paypay,Paidy,Airpay,Takeme
 
 
 
