@@ -69,7 +69,6 @@ Tasks
 
 -W20
   - [1build](https://www.ycombinator.com/companies/1build):Codifying the language of buildings, one cost estimate at a time（建物見積もり、実績あり）
-  - 
   - ★[Benepass](https://www.ycombinator.com/companies/benepass):An employee benefits card for modern companies（福利厚生のDX，适合自己做）
   - ★[Flowdash](https://www.ycombinator.com/companies/flowdash):Quickly build internal tools for your ops team's manual workflows
   - [Dashworks](https://www.ycombinator.com/companies/dashworks):Your team's intelligent start page.(ナレッジマネジメント)
