@@ -35,7 +35,7 @@ Tasks
   - [Strac](https://www.ycombinator.com/companies/strac): Detect & Mask Sensitive Personal Data
   - [GrowthBook](https://www.ycombinator.com/companies/growthbook): Open source feature flagging and A/B testing(商业模式有参考价值)
   - [https://cloudeagle.ai/](https://www.ycombinator.com/companies/cloudeagle-ai): SaaS Research and Procurement Platform（SaaS采购管理效率化，思路可以参考）
-  - [Pulley](https://www.ycombinator.com/companies/pulley): Helping startups get more from their equity（创业公司股权支援，类似于https://www.pave.com/）
+  - [Pulley](https://www.ycombinator.com/companies/pulley): Helping startups get more from their equity（Nstock类似，创业公司股权支援，类似于https://www.pave.com/）
   - [Onboard.io](https://www.ycombinator.com/companies/onboard-io): Manage & automate customer onboarding and implementation(オンボーディング効率化)
 
 -S21
